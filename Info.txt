@@ -1,6 +1,9 @@
 Youtube: Link https://www.youtube.com/watch?v=pxk1Fr33-L4&t=1370s
 
 1) create a repository in github
+
 2)clone it on local machine
+
 3) create a templete.py file 
-   Purpose:
+   Purpose: to create a folder structure
+   this is a file that will have code with logic to create a folder structure kinda a like an automated process for folder and file creation.
